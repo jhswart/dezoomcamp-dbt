@@ -8,6 +8,7 @@ sources:
     tables:
       - name: green_tripdata_non_partitoned
       - name: yellow_tripdata_non_partitoned
+      - name: fhv_tripdata_non_partitoned
 
 models:
   - name: staging_green_tripdata
